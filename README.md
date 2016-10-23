@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/clippy.js.png?mini=true)](https://nodei.co/npm/clippy.js/)
+
 [Clippy.JS](http://smore.com/clippy-js)
 =========
 Add Clippy or his friends to any website for instant nostalgia.  
