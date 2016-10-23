@@ -1,0 +1,12 @@
+{
+  "name": "clippy.js",
+  "version": "1.0.0",
+  "description": "Clippy.JS node module",
+  "main": "src/agent.js",
+  "repository": {
+    "url": "https://github.com/TexAgg/clippy.js.git",
+    "type": "git"
+  },
+  "author": "Matt Gaikema <mgaikema1@gmail.com>",
+  "license": "MIT"
+}
