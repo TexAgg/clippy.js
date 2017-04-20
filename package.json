@@ -8,5 +8,14 @@
     "type": "git"
   },
   "author": "Matt Gaikema <mgaikema1@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^2.4.1",
+    "css-loader": "^0.25.0",
+    "script-loader": "^0.7.0",
+    "style-loader": "^0.13.1"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
 }

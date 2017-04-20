@@ -1,4 +1,5 @@
 [![NPM](https://nodei.co/npm/clippy.js.png?mini=true)](https://nodei.co/npm/clippy.js/)
+I am re-writing ClippyJS to use as a node module.
 
 [Clippy.JS](http://smore.com/clippy-js)
 =========
